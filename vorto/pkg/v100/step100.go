@@ -10,7 +10,7 @@ import (
 
 	slogpkg "github.com/vinceyoumans/chal-vorto/vorto/pkg/slogPkg"
 
-	strucs "github.com/vinceyoumans/chal-vorto3/vorto/pkg/strucs"
+	strucs "github.com/vinceyoumans/chal-vorto/vorto/pkg/strucs"
 )
 
 // DigestProblemFile - opens the ProblemFile and returns Struc
