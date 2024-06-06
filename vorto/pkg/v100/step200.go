@@ -1,8 +1,8 @@
 package v100
 
 import (
-	slogpkg "vorto03/vorto/pkg/slogPkg"
-	strucs "vorto03/vorto/pkg/strucs"
+	slogpkg "github.com/vinceyoumans/chal-vorto/vorto/pkg/slogPkg"
+	strucs "github.com/vinceyoumans/chal-vorto/vorto/pkg/strucs"
 )
 
 func BuildP1000(PM100 []strucs.Problem100) []strucs.PMap210_ROUTE {

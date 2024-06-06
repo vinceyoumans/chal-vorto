@@ -8,9 +8,9 @@ import (
 	"strconv"
 	"strings"
 
-	slogpkg "vorto03/vorto/pkg/slogPkg"
+	slogpkg "github.com/vinceyoumans/chal-vorto/vorto/pkg/slogPkg"
 
-	strucs "vorto03/vorto/pkg/strucs"
+	strucs "github.com/vinceyoumans/chal-vorto3/vorto/pkg/strucs"
 )
 
 // DigestProblemFile - opens the ProblemFile and returns Struc

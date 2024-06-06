@@ -7,11 +7,12 @@ import (
 	"fmt"
 	"strconv"
 	"strings"
-	v100 "vorto03/vorto/pkg/v100"
+
+	v100 "github.com/vinceyoumans/chal-vorto/vorto/pkg/v100"
 
 	"github.com/spf13/cobra"
 
-	util "vorto03/vorto/pkg/util"
+	util "github.com/vinceyoumans/chal-vorto/vorto/pkg/util"
 )
 
 // v100Cmd represents the v100 command

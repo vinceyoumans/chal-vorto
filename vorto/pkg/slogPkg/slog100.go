@@ -4,7 +4,8 @@ import (
 	"log"
 	"log/slog"
 	"os"
-	"vorto03/vorto/pkg/util"
+
+	"github.com/vinceyoumans/chal-vorto/vorto/pkg/util"
 )
 
 func LogVortoP100(message string) {

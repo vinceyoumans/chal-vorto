@@ -2,7 +2,8 @@ package util
 
 import (
 	"path/filepath"
-	strucs "vorto03/vorto/pkg/strucs"
+
+	strucs "github.com/vinceyoumans/chal-vorto/vorto/pkg/strucs"
 )
 
 func CreateJSONDir(baseDir, SubDir string) string {

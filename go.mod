@@ -1,4 +1,4 @@
-module vorto03
+module github.com/vinceyoumans/chal-vorto
 
 go 1.22.3
 

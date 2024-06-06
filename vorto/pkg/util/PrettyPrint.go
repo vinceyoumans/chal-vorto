@@ -4,7 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
-	strucs "vorto03/vorto/pkg/strucs"
+
+	strucs "github.com/vinceyoumans/chal-vorto/vorto/pkg/strucs"
 )
 
 // PrettyPrint

@@ -1,9 +1,9 @@
 package v100
 
 import (
-	slogpkg "vorto03/vorto/pkg/slogPkg"
-	"vorto03/vorto/pkg/strucs"
-	util "vorto03/vorto/pkg/util"
+	slogpkg "github.com/vinceyoumans/chal-vorto/vorto/pkg/slogPkg"
+	"github.com/vinceyoumans/chal-vorto/vorto/pkg/strucs"
+	util "github.com/vinceyoumans/chal-vorto/vorto/pkg/util"
 )
 
 func V100Start(pp string) [][]int {

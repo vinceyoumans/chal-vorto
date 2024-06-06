@@ -1,7 +1,7 @@
 package v100
 
 import (
-	"vorto03/vorto/pkg/strucs"
+	"github.com/vinceyoumans/chal-vorto/vorto/pkg/strucs"
 )
 
 func Step500_BuildRoute(P320 []strucs.PMap210_ROUTE) strucs.VortoMatrix500 {

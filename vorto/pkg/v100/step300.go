@@ -2,7 +2,8 @@ package v100
 
 import (
 	"math"
-	"vorto03/vorto/pkg/strucs"
+
+	"github.com/vinceyoumans/chal-vorto/vorto/pkg/strucs"
 )
 
 // Step300_CreateRouteSortA - builds a sorted list of routes assuming Clostest PickUp is assigend Next route
