@@ -1,0 +1,361 @@
+{
+  "Max_number_of_drivers": 200,
+  "MaxDriveTime_Min": 43200,
+  "B_Total_NumberOfDrivenMinutes": 18078.247251558387,
+  "DMCounts": [
+    {
+      "A_Number_of_Drivers": 29,
+      "B_Total_NumberOfDrivenMinutes": 18078.247251558387,
+      "B_Average_DriveTime": 0,
+      "C_Total_Cost": 32578.247251558387,
+      "R_DriverMissions": [
+        {
+          "DriverID": 1,
+          "LoadNumberS": [
+            163,
+            164,
+            135,
+            115,
+            200,
+            53,
+            81,
+            168,
+            63
+          ],
+          "RunningDriveTime": 841.4479287959849
+        },
+        {
+          "DriverID": 2,
+          "LoadNumberS": [
+            39,
+            193,
+            34,
+            146,
+            177,
+            56,
+            157
+          ],
+          "RunningDriveTime": 738.5079791994948
+        },
+        {
+          "DriverID": 3,
+          "LoadNumberS": [
+            161,
+            67,
+            4,
+            94,
+            184,
+            178,
+            86
+          ],
+          "RunningDriveTime": 802.478103366642
+        },
+        {
+          "DriverID": 4,
+          "LoadNumberS": [
+            117,
+            123,
+            80,
+            124,
+            107
+          ],
+          "RunningDriveTime": 734.8171510696762
+        },
+        {
+          "DriverID": 5,
+          "LoadNumberS": [
+            21,
+            155,
+            60,
+            182,
+            62,
+            111
+          ],
+          "RunningDriveTime": 752.1058783050187
+        },
+        {
+          "DriverID": 6,
+          "LoadNumberS": [
+            174,
+            171,
+            183,
+            119,
+            83,
+            181,
+            109
+          ],
+          "RunningDriveTime": 728.0364546338858
+        },
+        {
+          "DriverID": 7,
+          "LoadNumberS": [
+            130,
+            29,
+            131,
+            72,
+            31,
+            42,
+            129
+          ],
+          "RunningDriveTime": 731.5124324911695
+        },
+        {
+          "DriverID": 8,
+          "LoadNumberS": [
+            137,
+            197,
+            95,
+            91,
+            156,
+            105,
+            9
+          ],
+          "RunningDriveTime": 766.0951170803932
+        },
+        {
+          "DriverID": 9,
+          "LoadNumberS": [
+            189,
+            112,
+            59,
+            97,
+            36,
+            90
+          ],
+          "RunningDriveTime": 811.4171306128551
+        },
+        {
+          "DriverID": 10,
+          "LoadNumberS": [
+            66,
+            196,
+            195,
+            68
+          ],
+          "RunningDriveTime": 740.0200069567671
+        },
+        {
+          "DriverID": 11,
+          "LoadNumberS": [
+            23,
+            141,
+            8
+          ],
+          "RunningDriveTime": 721.8353108234121
+        },
+        {
+          "DriverID": 12,
+          "LoadNumberS": [
+            32,
+            186,
+            158
+          ],
+          "RunningDriveTime": 772.3047154140352
+        },
+        {
+          "DriverID": 13,
+          "LoadNumberS": [
+            134,
+            65,
+            153,
+            69,
+            43,
+            2
+          ],
+          "RunningDriveTime": 750.3290114402355
+        },
+        {
+          "DriverID": 14,
+          "LoadNumberS": [
+            13,
+            126,
+            133,
+            101,
+            14,
+            151
+          ],
+          "RunningDriveTime": 725.2386164756749
+        },
+        {
+          "DriverID": 15,
+          "LoadNumberS": [
+            16,
+            38,
+            11,
+            10
+          ],
+          "RunningDriveTime": 728.4670535303337
+        },
+        {
+          "DriverID": 16,
+          "LoadNumberS": [
+            167,
+            73,
+            104,
+            162,
+            120
+          ],
+          "RunningDriveTime": 735.7442985558974
+        },
+        {
+          "DriverID": 17,
+          "LoadNumberS": [
+            139,
+            106,
+            28,
+            54,
+            85
+          ],
+          "RunningDriveTime": 758.1280013485074
+        },
+        {
+          "DriverID": 18,
+          "LoadNumberS": [
+            99,
+            98,
+            92,
+            145,
+            180
+          ],
+          "RunningDriveTime": 777.5231941371637
+        },
+        {
+          "DriverID": 19,
+          "LoadNumberS": [
+            19,
+            3,
+            49,
+            179
+          ],
+          "RunningDriveTime": 740.7601139146273
+        },
+        {
+          "DriverID": 20,
+          "LoadNumberS": [
+            79,
+            5,
+            41,
+            24,
+            50
+          ],
+          "RunningDriveTime": 820.5726741505906
+        },
+        {
+          "DriverID": 21,
+          "LoadNumberS": [
+            12,
+            100,
+            127,
+            74,
+            102,
+            84
+          ],
+          "RunningDriveTime": 940.1014818283109
+        },
+        {
+          "DriverID": 22,
+          "LoadNumberS": [
+            26,
+            154,
+            44
+          ],
+          "RunningDriveTime": 777.5998989461432
+        },
+        {
+          "DriverID": 23,
+          "LoadNumberS": [
+            198,
+            165,
+            121,
+            185,
+            147,
+            45,
+            132,
+            22
+          ],
+          "RunningDriveTime": 805.9363371560305
+        },
+        {
+          "DriverID": 24,
+          "LoadNumberS": [
+            199,
+            118,
+            142,
+            108
+          ],
+          "RunningDriveTime": 745.1269288173714
+        },
+        {
+          "DriverID": 25,
+          "LoadNumberS": [
+            33,
+            71,
+            18,
+            110,
+            187,
+            93
+          ],
+          "RunningDriveTime": 795.3196636671792
+        },
+        {
+          "DriverID": 26,
+          "LoadNumberS": [
+            192,
+            61,
+            160,
+            1,
+            125,
+            6,
+            40
+          ],
+          "RunningDriveTime": 726.1755421549673
+        },
+        {
+          "DriverID": 27,
+          "LoadNumberS": [
+            176,
+            15,
+            169,
+            194,
+            37,
+            82,
+            55,
+            89
+          ],
+          "RunningDriveTime": 822.0432184881797
+        },
+        {
+          "DriverID": 28,
+          "LoadNumberS": [
+            27,
+            103,
+            47,
+            191,
+            51,
+            166,
+            113
+          ],
+          "RunningDriveTime": 848.4968500024036
+        },
+        {
+          "DriverID": 29,
+          "LoadNumberS": [
+            46,
+            152,
+            70,
+            122,
+            188,
+            57,
+            143
+          ],
+          "RunningDriveTime": 784.6328052856793
+        }
+      ],
+      "Violates_12HourRule": false,
+      "ZZ_debug_Total_DrivingTime": 0,
+      "ZZ_ToMany_Drivers": false,
+      "ZZ_ToFewDrivers": false,
+      "ZZ_Perfect_Drivers": false
+    }
+  ]
+}

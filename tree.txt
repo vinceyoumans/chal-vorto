@@ -1,0 +1,109 @@
+.
+├── CHAL_docs
+│   ├── drive-download-20240531T045535Z-001
+│   │   ├── 2023 10 03 - Vorto Algorithmic Challenge Instructions.docx
+│   │   ├── 2023 10 11 - Leaderboard.xlsx
+│   │   ├── Training Problems
+│   │   │   ├── problem1.txt
+│   │   │   ├── problem10.txt
+│   │   │   ├── problem11.txt
+│   │   │   ├── problem12.txt
+│   │   │   ├── problem13.txt
+│   │   │   ├── problem14.txt
+│   │   │   ├── problem15.txt
+│   │   │   ├── problem16.txt
+│   │   │   ├── problem17.txt
+│   │   │   ├── problem18.txt
+│   │   │   ├── problem19.txt
+│   │   │   ├── problem2.txt
+│   │   │   ├── problem20.txt
+│   │   │   ├── problem3.txt
+│   │   │   ├── problem4.txt
+│   │   │   ├── problem5.txt
+│   │   │   ├── problem6.txt
+│   │   │   ├── problem7.txt
+│   │   │   ├── problem8.txt
+│   │   │   └── problem9.txt
+│   │   ├── evaluateShared.py
+│   │   └── evaluationReadMe.txt
+│   └── drive-download-20240531T045535Z-001.zip
+├── Makefile
+├── README.md
+├── bin
+│   └── vorto
+├── go.mod
+├── go.sum
+├── output
+│   ├── P200
+│   │   └── p200.json
+│   ├── P300
+│   │   └── p300.json
+│   ├── Problems
+│   │   ├── P320
+│   │   │   └── p320.json
+│   │   ├── PM500
+│   │   │   └── pm500.json
+│   │   ├── PM520
+│   │   │   └── pm520.json
+│   │   ├── PM530
+│   │   │   └── pm530.json
+│   │   ├── prob20
+│   │   │   └── prob20.json
+│   │   └── prob300
+│   │       └── prob300.json
+│   ├── ret
+│   ├── slog
+│   │   └── P100
+│   │       └── log1000.json
+│   └── strucs
+├── training
+│   └── Problems
+│       ├── problem1.txt
+│       ├── problem10.txt
+│       ├── problem11.txt
+│       ├── problem12.txt
+│       ├── problem13.txt
+│       ├── problem14.txt
+│       ├── problem15.txt
+│       ├── problem16.txt
+│       ├── problem17.txt
+│       ├── problem18.txt
+│       ├── problem19.txt
+│       ├── problem2.txt
+│       ├── problem20.txt
+│       ├── problem3.txt
+│       ├── problem4.txt
+│       ├── problem5.txt
+│       ├── problem6.txt
+│       ├── problem7.txt
+│       ├── problem8.txt
+│       └── problem9.txt
+├── tree.txt
+├── vorto
+│   ├── LICENSE
+│   ├── cmd
+│   │   ├── root.go
+│   │   └── v100.go
+│   ├── main
+│   ├── main.go
+│   └── pkg
+│       ├── slogPkg
+│       │   └── slog100.go
+│       ├── strucs
+│       │   ├── strucs100.go
+│       │   ├── strucs150.go
+│       │   ├── strucs200.go
+│       │   └── strucs500.go
+│       ├── util
+│       │   ├── PrettyPrint.go
+│       │   ├── savefiles.go
+│       │   └── util.go
+│       └── v100
+│           ├── step100.go
+│           ├── step200.go
+│           ├── step300.go
+│           ├── step500.go
+│           └── v100.go
+└── vtest.txt
+
+28 directories, 79 files
